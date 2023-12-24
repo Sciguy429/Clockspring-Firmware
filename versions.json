@@ -1,9 +1,9 @@
 {
-    "firmwareVersion": 1,
-	"firmwareCRC32": 0,
-    "firmwareURL": "/",
+  "firmwareVersion": 1,
+  "firmwareCRC32": 0,
+  "firmwareURL": "/",
 
-	"sdContentVersion": 1,
-	"sdContentCRC32": 0,
-    "sdContentURL": "/"
+  "sdContentVersion": 1,
+  "sdContentCRC32": 0,
+  "sdContentURL": "/"
 }
