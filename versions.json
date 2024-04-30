@@ -1,6 +1,6 @@
 {
-  "firmwareVersion": 11,
-  "firmwareCRC32": 228258489,
+  "firmwareVersion": 12,
+  "firmwareCRC32": 608237321,
   "firmwareURL": "https://raw.githubusercontent.com/Sciguy429/Clockspring-Firmware/main/firmware.bin.gz",
 
   "sdContentVersion": 3,
