@@ -3,7 +3,7 @@
   "firmwareCRC32": 2599655978,
   "firmwareURL": "https://raw.githubusercontent.com/Sciguy429/Clockspring-Firmware/main/firmware.bin.gz",
 
-  "sdContentVersion": 3,
-  "sdContentCRC32": 1549950548,
+  "sdContentVersion": 4,
+  "sdContentCRC32": 576830371,
   "sdContentURL": "https://raw.githubusercontent.com/Sciguy429/Clockspring-Firmware/main/content.tar.gz"
 }
